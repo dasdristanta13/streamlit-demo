@@ -1,4 +1,4 @@
-from cv2 import resize
+# from cv2 import resize
 import streamlit as st
 import numpy as np
 from pandas import DataFrame
