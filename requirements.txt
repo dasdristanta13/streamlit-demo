@@ -1,0 +1,6 @@
+numpy
+pandas
+streamlit_cropper
+streamlit
+seaborn
+opencv-python
